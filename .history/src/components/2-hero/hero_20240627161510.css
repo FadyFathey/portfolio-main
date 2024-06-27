@@ -1,9 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Dosis:300,400);
 /* ===========================
  table of contents
 ==============================
 1. Left Section
 2. Right Section ==> animation*/
+@import url(https://fonts.googleapis.com/css?family=Dosis:300,400);
 
 section.hero {
   margin-top: 3rem;
@@ -78,14 +78,11 @@ section.hero .animation {
   }
 }
 
-
-
-
+@import url(https://fonts.googleapis.com/css?family=Dosis:300,400);
 
 body {
   background-color: #222;
   margin: 0;
-  overflow: hidden;
 }
 
 .wrapper {
@@ -158,7 +155,7 @@ a.effect-box:hover:before {
 }
 
 /* effect-shine */
-.icon.effect-shine:hover {
+.icon.effect-shine {
   -webkit-mask-image: linear-gradient(-75deg, rgba(0, 0, 0, .6) 30%, #000 50%, rgba(0, 0, 0, .6) 70%);
   -webkit-mask-size: 200%;
   animation: shine 2s infinite;
@@ -172,14 +169,4 @@ a.effect-box:hover:before {
   to {
     -webkit-mask-position: -50%;
   }
-}
-
-/* Icon styles */
-.icon {
-  position: relative;
-  display: inline-block;
-  font-size: 30px;
-  /* Adjust the font size as needed */
-  color: #fff;
-  margin-right: 10px;
 }
