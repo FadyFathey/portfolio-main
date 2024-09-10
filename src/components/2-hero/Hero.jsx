@@ -20,19 +20,32 @@ const Hero = () => {
         </motion.h1>
 
         <p className="sub-title">
-          Detail-oriented and results-driven Front-End Developer with proven expertise in developing high-performance, responsive web applications. Proficient in HTML, CSS, JavaScript, and ReactJS,
-          with a strong foundation in modern web development practices. Experienced in collaborating with cross-functional teams to deliver seamless integration and optimized user experiences.
-          Adept at problem-solving and committed to staying current with industry trends and technologies.
+          Detail-oriented and results-driven Front-End Developer with proven
+          expertise in developing high-performance, responsive web applications.
+          Proficient in HTML, CSS, JavaScript, and ReactJS, with a strong
+          foundation in modern web development practices. Experienced in
+          collaborating with cross-functional teams to deliver seamless
+          integration and optimized user experiences. Adept at problem-solving
+          and committed to staying current with industry trends and
+          technologies.
         </p>
 
         <div className="all-icons flex">
-          <a target="_blank" href="https://github.com/FadyFathey" rel="noreferrer">
+          <a
+            target="_blank"
+            href="https://github.com/FadyFathey"
+            rel="noreferrer"
+          >
             <div className="icon effect-shine icon-github"></div>
           </a>
-          <a target="_blank" href="https://www.linkedin.com/in/fady-fathey-maher-72918916b/" rel="noreferrer">
+          <a
+            target="_blank"
+            href="https://www.linkedin.com/in/fady-fathey-maher-72918916b/"
+            rel="noreferrer"
+          >
             <div className="icon effect-shine icon-linkedin"></div>
           </a>
-          <a href="../../../public/Fady_Fathey_Maher_CV_Front-End.pdf" download>
+          <a href="/Fady_Fathey_Maher_CV_Front-End.pdf" download>
             <i className="fa-solid fa-file icon effect-shine"></i>
           </a>
         </div>
