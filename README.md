@@ -14,7 +14,7 @@
 - 👨‍💻 I am constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
-- 👨‍💻 Check out my portfolio at [https://portfolio-fady-fathey.vercel.app](https://portfolio-fady-fathey.vercel.app/) to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at [https://fadyfathy-portfolio.vercel.app/](https://fadyfathy-portfolio.vercel.app/) to see some of the projects I've worked on.
 
 ### Connect with Me :
 
