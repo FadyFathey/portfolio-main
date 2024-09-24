@@ -1,104 +1,40 @@
-# Portfolio
+<img width="250" align="right" src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif">
 
-Welcome to my portfolio repository! This project showcases my work, skills, and accomplishments. Here, you can find detailed information about my projects and experience.
+<h3 align="center">
+  Welcome to Fady Fathey's profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-## Table of Contents
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Front-End%20Developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 
-- [About](#about)
-- [Projects](#projects)
-- [Skills](#skills)
-- [Contact](#contact)
+- 🏢 I'm a Frontend Developer.
+- 👨‍💻 I am constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with JavaScript, ReactJS, or anything related to web development.
+- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 👨‍💻 Check out my portfolio at [https://portfolio-fady-fathey.vercel.app](https://portfolio-fady-fathey.vercel.app/) to see some of the projects I've worked on.
 
-## About
+### Connect with Me :
 
-This portfolio is a collection of my projects and achievements. It highlights my expertise in various technologies and my journey as a developer.
+<a href="https://www.linkedin.com/in/fady-fathey-maher-72918916b/" target="_blank"><img src="https://img.shields.io/badge/-Fady%20Fathey-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://github.com/FadyFathey" target="_blank"><img src="https://img.shields.io/badge/-Fady%20Fathey-0077B5?style=for-the-badge&logo=GitHub&logoColor=white"/></a>
 
-## Projects
+### 🛠 &nbsp;Tech Stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![React.js](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-05122A?style=flat&logo=tailwind-css&logoColor=06B6D4)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 
-### E-Commerce-App
-- **Description**: The e-commerce website offers a wide range of products, including electronics, fashion, and home goods. The site features user-friendly navigation, product search, and secure payment options. Additionally, it includes customer reviews and detailed product descriptions to enhance the shopping experience.
-- **Technologies Used**: React, CSS
-- **Link**: [E-Commerce-App Demo](https://e-commerce-website-six-phi.vercel.app/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/E-Commerce-App.git)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=FadyFathey&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
 
-### NeOz Cryptocurrency Website
-- **Description**: The crypto app offers real-time cryptocurrency prices, trends, and market data. It features user-friendly navigation, detailed coin information, and secure portfolio management. Additionally, the app provides interactive charts and news updates to keep users informed about market movements.
-- **Technologies Used**: React, CSS
-- **Link**: [Crypto App Demo](https://crypto-app-fady-fathy.onrender.com/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/crypto/tree/master)
-
-### DigitalizeBS
-- **Description**: DigitalizeBS offers comprehensive IT solutions, including data center construction, network security, and IoT implementations. Their services also encompass website development, SEO, and ERP system installations. The company focuses on building scalable and secure solutions.
-- **Technologies Used**: CSS
-- **Link**: [DigitalizeBS Website](https://digitalizebs.com/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/Digitalize.git)
-
-### SoundDZign React Project
-- **Description**: SoundDZign offers an immersive music experience, featuring high-quality sound design and user-friendly navigation. The platform provides various audio tracks and playlists to cater to different moods and preferences. Additionally, it provides a community forum for users to share their music experiences.
-- **Technologies Used**: React
-- **Link**: [SoundDZign Demo](https://sound-dezign.vercel.app/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/sound-dezign.git)
-
-### React-Website-Using-Styled-Components
-- **Description**: The Responsive React Website showcases a sleek and modern design, utilizing Styled Components for enhanced styling and flexibility. It features a responsive layout, interactive elements, and smooth navigation.
-- **Technologies Used**: CSS
-- **Link**: [Responsive React Website Demo](https://responsive-react-website-using-styled-components.vercel.app/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/Responsive-React-Website-Using-Styled-Components.git)
-
-### GlowGo-React-E-Commerce-landing-page
-- **Description**: The Responsive React Website showcases a sleek and modern design, utilizing Styled Components for enhanced styling and flexibility. It features a responsive layout, interactive elements, and smooth navigation.
-- **Technologies Used**: JavaScript
-- **Link**: [GlowGo Demo](https://responsive-react-website-using-styled-components.vercel.app/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/Responsive-React-Website-Using-Styled-Components.git)
-
-### Tesla Clone
-- **Description**: The Tesla Website Clone is a React-based project that replicates the Tesla website. It features responsive design, dynamic content, and smooth navigation.
-- **Technologies Used**: JavaScript
-- **Link**: [Tesla Clone Demo](https://tesla-website-clone-two.vercel.app)
-- **GitHub**: [Repository](https://github.com/FadyFathey/Tesla-Website-Clone.git)
-
-### Movie App
-- **Description**: The Movie App is a React-based project that provides information about movies. It features responsive design and dynamic content loading.
-- **Technologies Used**: JavaScript
-- **Link**: [Movie App Demo](https://movie-db-30e50.web.app/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/movieDB.git)
-
-### Spotlight
-- **Description**: Spotlight is designed to manage product inventory and storage for a company. It allows users to add, edit, and delete product information, including images, categories, and sizes.
-- **Technologies Used**: React
-- **Link**: [Spotlight Demo](https://spotlight-self.vercel.app/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/spotlight.git)
-
-### Food App
-- **Description**: Food App is a user-friendly platform designed to revolutionize the way you discover, order, and enjoy food. Whether you’re craving a quick snack or planning a gourmet meal, Food App has you covered.
-- **Technologies Used**: React
-- **Link**: [Food App Demo](https://fooder-app-mu.vercel.app/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/fooderApp.git)
-
-### Medical Landing Page
-- **Description**: The Medical Landing Page offers a glimpse into the essential features and benefits of using the MEDICAL platform, designed to enhance the efficiency and quality of healthcare services.
-- **Technologies Used**: React
-- **Link**: [Medical Landing Page Demo](https://fadyfathey.github.io/MEDICAL/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/MEDICAL.git)
-
-### Product Management System
-- **Description**: The Product Management System is the ultimate solution for efficient and comprehensive product management. Our landing page provides an overview of the essential features and benefits of using our system.
-- **Technologies Used**: React
-- **Link**: [Product Management System Demo](https://fadyfathey.github.io/products-mangment-system/)
-- **GitHub**: [Repository](https://github.com/FadyFathey/products-mangment-system.git)
-
-## Skills
-
-- **Programming Languages**: JavaScript, CSS
-- **Frameworks and Libraries**: React
-- **Tools and Technologies**: Git, GitHub
-
-## Contact
-
-Feel free to reach out to me through the following channels:
-
-- **Email**: [fadyfathymaher3@gmail.com](mailto:your-email@example.com)
-- **LinkedIn**: [https://www.linkedin.com/in/fady-fathey-maher-72918916b/](link-to-linkedin)
-- **GitHub**: [https://github.com/FadyFathey](link-to-github)
-
-Thank you for visiting my portfolio!
