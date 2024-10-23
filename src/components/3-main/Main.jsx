@@ -12,17 +12,28 @@ const Main = () => {
     if (category === "all") {
       setFilteredProjects(myProjects);
     } else {
-      const filtered = myProjects.filter(project => project.category.includes(category));
+      const filtered = myProjects.filter((project) =>
+        project.category.includes(category)
+      );
       setFilteredProjects(filtered);
     }
   };
 
-  const categories = ["all", "react", "css", "js", "html"];
+  const categories = [
+    "all",
+    "Web Development",
+    "E-commerce",
+    "Cryptocurrency",
+    "Responsive Design",
+    "UI/UX Design",
+    "Data Visualization",
+    "Portfolio",
+  ];
 
   return (
     <main className="flex" id="projects">
       <section className="flex left-section">
-        {categories.map(category => (
+        {categories.map((category) => (
           <button
             key={category}
             onClick={() => handleFilterClick(category)}
@@ -35,7 +46,7 @@ const Main = () => {
 
       <section className="flex right-section">
         <AnimatePresence>
-          {filteredProjects.map(project => (
+          {filteredProjects.map((project) => (
             <motion.article
               layout
               initial={{ transform: "scale(0.4)" }}
@@ -46,18 +57,33 @@ const Main = () => {
             >
               <div style={{ maxWidth: "266px" }}>
                 <a target="_blank" href={project.link} rel="noreferrer">
-                  <img width={266} src={project.imgPath} alt={project.projectTitle} />
+                  <img
+                    width={266}
+                    src={project.imgPath}
+                    alt={project.projectTitle}
+                  />
                   <div style={{ width: "266px" }} className="box">
                     <h1 className="title">{project.projectTitle}</h1>
                     <p className="sub-title">{project.description}</p>
                     <div className="flex icons">
                       <div style={{ gap: "11px" }} className="flex">
-                        <a target="_blank" href={project.link} rel="noreferrer"><div className="icon-link"></div></a>
-                        <a target="_blank" href={project.github} rel="noreferrer"><div className="icon-github"></div></a>
+                        <a target="_blank" href={project.link} rel="noreferrer">
+                          <div className="icon-link"></div>
+                        </a>
+                        <a
+                          target="_blank"
+                          href={project.github}
+                          rel="noreferrer"
+                        >
+                          <div className="icon-github"></div>
+                        </a>
                       </div>
                       <a className="link flex" href="#">
                         more
-                        <span style={{ alignSelf: "end" }} className="icon-arrow-right"></span>
+                        <span
+                          style={{ alignSelf: "end" }}
+                          className="icon-arrow-right"
+                        ></span>
                       </a>
                     </div>
                   </div>
